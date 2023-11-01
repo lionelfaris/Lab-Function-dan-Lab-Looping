@@ -1,0 +1,6 @@
+1. Which built-in data structure type would be the most suited for storing information that should not change ?
+Answer : Tuple, it's immutable
+2. Which built-in data structure type that does not allow duplicate values?
+Answer : It's called set
+3. Which built-in data structure is an ordered collection of elements, where each element can be accessed using an index?
+Answer : List and array
