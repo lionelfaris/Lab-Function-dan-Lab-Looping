@@ -1,0 +1,14 @@
+1. What is the purpose of a for loop in Python ?
+Answer : A. To execute a block of code repeatedly while a condition is true
+2. What keyword is used to exit a loop permanently in Python ?
+Answer : C. break
+3. Which loop type is ideal for iterating over sequences like lists and tuples?
+Answer : B. for loop
+4. In a nested loop, what does the inner loop do?
+Answer : B. It executes before the outer loop
+5. When should you use the continue statement in a loop?
+Answer : B. to skip the current iteration and continue to the next
+6. What is the purpose of the while loop in python?
+Answer : B. to execute a block of code repeatedly while a condition is True
+7. Which of the following is not range() parameter?
+Answer : A. loop
